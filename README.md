@@ -1,8 +1,14 @@
 # Agentic AI
 
 ## Resources
+- [Hugging Face AI Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction)
+- [Microsoft AI Agents for Beginners](https://learn.microsoft.com/en-us/shows/ai-agents-for-beginners/)
+- [DeepLearning.AI - Agentic AI (Andrew Ng)](https://www.deeplearning.ai/courses/agentic-ai?utm_source=chatgpt.com)
+- [OpenAI Academy](https://academy.openai.com)
+- [Anthropic Academy](https://anthropic.com/learn)
 
 ## Table of Contents
+1. [Hugging Face AI Agents Course](./hugging-face)
 
 
 ## Contributions
