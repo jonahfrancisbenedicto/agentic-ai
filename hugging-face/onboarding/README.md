@@ -3,15 +3,15 @@
 1. Create a hugging face account.
 2. Run Model Locally with Ollama
     1. [Install Ollama](https://ollama.com/download)
-    2. Pull model locally 
+    2. Pull model locally <br>
     ```bash
     ollama pull qwen2:7b
     ```
-    3. Run Ollama 
+    3. Run Ollama <br>
     ```bash
     ollama serve
     ```
-    4. Use `LiteLLMModel` Instead of `InferenceClientModel`
+    4. Use `LiteLLMModel` Instead of `InferenceClientModel` <br>
     Create and change directory:
     ```bash
     mkdir <directory>
