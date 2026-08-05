@@ -1,9 +1,9 @@
 # Agentic AI
 
+## Resources
+
 ## Table of Contents
 
-### What is Agentic AI?
-Agentic AI is a type of Artificial Intelligence that can take up a task from a user then work toward completing it on its own, with minimal human guidance. It plans, takes action, adapts to changes, and seeks help only when necessary.
 
 ## Contributions
 This repository is maintained by @jonahfrancisbenedicto
